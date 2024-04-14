@@ -18,6 +18,20 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+#Developed by:DILLIARASU M
+#Register No: 212223230049
+vijay = input()
+surya = input()
+ball = vijay
+vijay = surya
+surya = ball
+print("Swapped values are:",vijay, surya)
+```
+# OUTPUT:
+![Screenshot 2024-04-14 092059](https://github.com/Dilliarasu0105/Swapping-two-values/assets/144979593/528fcdb1-98bd-4332-a428-7a7378deee38)
+
+![Screenshot 2024-04-14 092124](https://github.com/Dilliarasu0105/Swapping-two-values/assets/144979593/80406b18-6442-426f-9955-72f0bffdd292)
 
 
 
